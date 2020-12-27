@@ -5,7 +5,7 @@ body{
     font-size: 1.1em;
     text-align: center;
     font-family: 'Nunito', sans-serif;
-   background: grey
+   background:grey;
 
 }
 img{
@@ -121,4 +121,5 @@ p{
         justify-content: space-around;
         flex-direction: column;
     }
+
 }
